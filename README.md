@@ -1,9 +1,5 @@
-![MasterHead](https://media.istockphoto.com/id/1369278807/photo/big-data-connection-technology-concept.jpg?s=612x612&w=0&k=20&c=2fXIMadHQP2a4DN5dtGbunVJ7ImHKAxWnlVEk3Sbd7M=)
-
-<h1 align="center">Welcome to Omicron IoT Solutions</h1>
-<h3 align="center">We are experts in building high-quality IoT devices that make technology accessible, efficient, and productive. Join us on our mission to create a smarter world!</h3>
-
-<img align="center" alt="Coding" width="400" src="https://omicroniot.com/wp-content/uploads/2022/12/cropped-LogoNuevoOmicronRecortado.png">
+<h1 align="center"> Welcome to Omicron IoT Solutions</h1>
+<h3 align="center"> We are experts in building high-quality IoT devices that make technology accessible, efficient, and productive. Join us on our mission to create a smarter world!</h3>
 
 - 🏢 At Omicron IoT Solutions:
 	- **We believe that the good use of electronics promotes the development of human welfare and care for the environment**
