@@ -2,11 +2,12 @@
 <h3 align="center"> We are experts in building high-quality IoT devices that make technology accessible, efficient, and productive. Join us on our mission to create a smarter world!</h3>
 
 <br>
-
-
-
 <br>
 
+![logo omicron IOT SOLUTIONS (1)](https://github.com/Omicron-IoT-Solutions/Omicron-IoT-Solutions/assets/141452095/28ab0a01-2018-4e3e-9237-6ae25954425b)
+
+<br>
+<br>
 
 - 🏢 At Omicron IoT Solutions:
 	- **We believe that the good use of electronics promotes the development of human welfare and care for the environment**
