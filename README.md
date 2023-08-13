@@ -4,7 +4,7 @@
 <br>
 <br>
 
-![logo omicron IOT SOLUTIONS (1)](https://github.com/Omicron-IoT-Solutions/Omicron-IoT-Solutions/assets/141452095/28ab0a01-2018-4e3e-9237-6ae25954425b)
+![Logo-Omicron-Vector](https://github.com/Omicron-IoT-Solutions/Omicron-IoT-Solutions/assets/141452095/45ecc7dd-59e7-4816-85db-c08965e51412)
 
 <br>
 <br>
